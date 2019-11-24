@@ -1,6 +1,6 @@
-![Project Banner](/assets/template_visuals/temp-banner.png)
-
 ![](humchild.png)
+
+![](helve-project-banner.png)
 
 <a name="intro"></a>
 # HUMCHILD - VIDEO ART
