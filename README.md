@@ -3,7 +3,7 @@
 ![](helve-project-banner.png)
 
 <a name="intro"></a>
-# HUMCHILD - VIDEO ART
+# HUMCHILD - VIDEO ART/ALTERNATIVE CINEMA EXPERIENCE (SENSE THE SENSES)
 
 Hum Child (2012) - man's journey and struggle through a universe of noise and distraction.
 / narrative feature length or short film
