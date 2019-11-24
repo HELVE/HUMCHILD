@@ -1,5 +1,3 @@
-
-
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
